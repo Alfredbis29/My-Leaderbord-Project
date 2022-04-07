@@ -15,7 +15,9 @@ const loadScores = () => {
       scoresList.innerHTML += `<li>${item.user}: ${item.score}</li>`;
     });
   });
-  setTimeout(() => { document.querySelector('.rotate-refresh').style.display = 'none'; }, 1500);
+  setTimeout(() => {
+    document.querySelector('.rotate-refresh').style.display = 'none';
+  }, 1500);
 };
 
 refreshBtn.addEventListener('click', () => {
@@ -37,6 +39,8 @@ form.addEventListener('submit', async (e) => {
     }, 2500);
   });
   form.reset();
-  setTimeout(() => { document.querySelector('.rotate-submit').style.display = 'none'; }, 1000);
+  setTimeout(() => {
+    document.querySelector('.rotate-submit').style.display = 'none';
+  }, 1000);
   loadScores();
 });
