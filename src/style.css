@@ -22,7 +22,7 @@ body {
 h1 {
   font-size: 2rem;
   margin-bottom: 50px;
-  color: #020a11;
+  color: #6b40fc;
   font-family: sans-serif;
 }
 
@@ -45,13 +45,13 @@ section {
   padding: 20px;
   border-radius: 10px;
   background: #fff;
-  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 10px 10px 10px 10px #6c40fc98;
 }
 
 h2 {
   font-size: 1.6rem;
   text-align: center;
-  color: #000509;
+  color: #6b40fc;
   font-family: sans-serif;
 }
 
@@ -65,8 +65,8 @@ h2 {
 }
 
 button {
-  background: #020a11;
-  color: #fff;
+  background: #c7cacd;
+  color: #6b40fc;
   padding: 10px;
   text-align: center;
   text-decoration: none;
@@ -77,26 +77,26 @@ button {
 }
 
 .score-list {
-  border: 3px solid #020a11;
+  border: 3px solid #6b40fc;
   width: 80%;
   border-radius: 5px;
 }
 
 .score-list > li {
   font-size: 1.2rem;
-  color: #000;
+  color: #6a52bb;
   font-weight: 500;
   padding: 10px;
 }
 
 .score-list > li:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #f8f0f0;
 }
 
 .divider {
   width: 100%;
   height: 2px;
-  background-color: #020a11;
+  background-color: #6c40fc72;
 }
 
 label {
@@ -115,12 +115,12 @@ input {
   width: 100%;
   padding: 5px;
   font-size: 1.2em;
-  border: 2px solid #020a11;
+  border: 2px solid #6b40fc;
   border-radius: 3px;
 }
 
 input::placeholder {
-  color: #6d7275;
+  color: #6b40fc;
   font-size: 1rem;
 }
 
@@ -137,7 +137,7 @@ input::placeholder {
 
 .fa-spinner {
   font-size: 1rem;
-  color: #020a11;
+  color: #6b40fc;
   animation: fa-spin 2s infinite linear;
 }
 
@@ -151,6 +151,6 @@ input::placeholder {
   .divider {
     height: 100%;
     width: 2px;
-    background-color: #427aa1;
+    background-color: #6b40fc;
   }
 }
