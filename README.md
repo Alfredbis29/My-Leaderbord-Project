@@ -1,16 +1,12 @@
-# Leaderboard App
+# Leaderboard
 
-> The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+> The leaderboard website displays scores during the game. All data is preserved thanks to the external Leaderboard API service.
 
 ### Built With
 
 - Major languages: HTML, CSS, JavaScript
 - Frameworks: N/A
 - Technologies used: Webpack, API
-
-### You can view it live [here](https://deyemiobaa.github.io/Leaderboard/)
-
-<img src="src/app-sc.png" alt="Project Snapshot">
 
 ### Prerequisites
 
@@ -31,25 +27,24 @@ To get a local copy up and running follow these simple example steps.
 - clone the repo with:
 
 ```
-git clone  <https://github.com/deyemiobaa/Leaderboard.git>
+git clone  <git@github.com:Alfredbis29/My-Leaderbord-Project.git>
 ```
 
-- run `cd Leaderboard` to enter the project folder
 - run `npm i` to install all dependencies
 - run `npm run build` to bundle the project with webpack, and
 - run `npm start` to launch the application
 
 ### Author
 
-- GitHub: [@deyemiobaa](https://github.com/deyemiobaa)
-- Twitter: [@deyemiobaa](https://twitter.com/deyemiobaa)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/sodiqa)
+- GitHub: [@Alfredbis29](https://github.com/Alfredbis29)
+- Twitter: [@alfredbisimwa](https://twitter.com/AlfredBisimwa1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kalumuna-bisimwa-0501a81a8/)
 
 ### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/deyemiobaa/Leaderboard/issues).
+Feel free to open an [issue](git@github.com:Alfredbis29/My-Leaderbord-Project.git/issue).
 
 ### Show your support
 
